@@ -36,7 +36,7 @@ Celles dont le nom contient « ⌘ » sont des variantes avec lesquelles les r
 
 ### Installation
 
-Pour installer la disposition de clavier, copiez le fichier « fr-dvorak-bepo.bundle » dans "/Utilisateurs/votre_nom_d'utilisateur/Bibliothèque/Keyboard Layouts" si vous désirez qu'elle soit disponible uniquement pour votre utilisateur, ou dans "/Bibliothèque/Keyboard Layouts" si vous désirez qu'elle soit disponible pour tous les utilisateurs de l'ordinateur.
+Pour installer la disposition de clavier, copiez le fichier « bepo 1.1.bundle » dans "/Utilisateurs/votre_nom_d'utilisateur/Bibliothèque/Keyboard Layouts" si vous désirez qu'elle soit disponible uniquement pour votre utilisateur, ou dans "/Bibliothèque/Keyboard Layouts" si vous désirez qu'elle soit disponible pour tous les utilisateurs de l'ordinateur.
 
 Vous devez fermer et rouvrir votre session pour que la nouvelle disposition de clavier soit prise en compte.
 
