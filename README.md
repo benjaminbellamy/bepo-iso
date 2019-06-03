@@ -17,7 +17,7 @@ Testé avec succès avec un clavier Apple, un clavier PC standard, un clavier po
 
 Ce paquetage contient la disposition de clavier Dvorak français BÉPO, optimisée pour le français, créée par la communauté sur http://www.clavier-dvorak.org/.
 
-Il contient six dispositions de clavier:
+Il contient neuf dispositions de clavier:
 
 * Français normalisé (bépo)
 * bépo 1.1 - Azerty ⌘
