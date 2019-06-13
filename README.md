@@ -6,8 +6,11 @@ Testé avec succès avec un clavier Apple, un clavier PC standard, un clavier po
 
 * Le fichier complet zippé est là :
 [bepo 1.1.bundle.zip](https://github.com/benjaminbellamy/bepo-iso/raw/master/bepo%201.1.bundle.zip)
-* Le fichier de disposition ISO seul est là :
-[bepo - ISO.keylayout](https://github.com/benjaminbellamy/bepo-iso/blob/master/bepo%201.1.bundle/Contents/Resources/bepo%20-%20ISO.keylayout)
+* Le fichier bundle zippé avec uniquement le format ISO :
+[BEPO-ISO.bundle.zip](https://github.com/benjaminbellamy/bepo-iso/raw/master/BEPO-ISO.bundle.zip)
+
+Pour une raison que j'ignore (Mac OS est très tatillon sur les bundles) le [bundle complet](https://github.com/benjaminbellamy/bepo-iso/raw/master/bepo%201.1.bundle.zip) (ainsi que le bundle original de [bepo.fr](http://bepo.fr/) sur lequel il est basé) n'apparaissent pas après un reboot complet de Mac OS. Pour taper son mot de passe c'est embêtant.
+Le [bundle ISO](https://github.com/benjaminbellamy/bepo-iso/raw/master/BEPO-ISO.bundle.zip) quant à lui est bien présent, même au premier boot. (Cette prouesse technologique a été réalisée grâce à de longs bidouillages sous [Ukelele](https://scripts.sil.org/ukelele) et une patouille des fichiers XML sous VIM…)
 
 ## Disposition de clavier Dvorak français BÉPO, version 1.1rc2
 
