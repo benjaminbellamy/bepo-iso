@@ -4,8 +4,12 @@
 <!-- http://www.bepo.fr/ -->
 <!-- version 1.1rc2 -->
 <!--Last edited by Ukelele version 3.2.0.154 on 2019-04-30 at 12:10 (UTC+2)-->
-<keyboard group="126" id="-32245" name="BEPO - ISO" maxout="2">
-	<!--
+
+<!-- The following line was edited following https://superuser.com/a/1741104/
+    to prevent random layout changes in Mac OS Monterey
+-->
+<keyboard group="0" id="16003" name="BEPO - ISO" maxout="1">
+  <!--
     This layout is designed for ISO keyboards ONLY. The extra
     key on an ISO keyboard (next to the left Shift) is optional,
     characters on it are also accessible through other keys.
